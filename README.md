@@ -19,7 +19,7 @@ School of Cyber Science and Engineering, Sichuan University
 
 This repository serves as the official repository for DEAL-300K. It contains the DEAL-300K dataset along with other tools mentioned in the paper. The code and related pre-trained models will be released after the paper is accepted.
 
-If you have any question, please contact _zhangrui1997[at]stu.scu.edu.cn_. The paper can be found in [arxiv](https://arxiv.org/abs/2308.14395)
+If you have any question, please contact _zhangrui1997[at]stu.scu.edu.cn_. The paper will be released in few days.
 
 
 
