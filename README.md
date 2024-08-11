@@ -1,17 +1,5 @@
 ## **DEAL-300K**: A Large-Scale Dataset and Benchmark Method for Diffusion-Based Image Editing Area Localization
 
-<div align=center>
-    <a href="https://ymhzyj.github.io/" target="_blank">Rui Zhang</a>
-    <!-- Rui Zhang -->
-    <a href="https://ccs.scu.edu.cn/info/1052/2601.htm" target="_blank">Hongxia Wang</a>
-    Mingshan Du
-    Hanqing Liu
-    Yang Zhou
-    Qiang Zeng
-</div>
-<div align=center>
-School of Cyber Science and Engineering, Sichuan University
-</div>
 
 
 ## Description
@@ -19,7 +7,6 @@ School of Cyber Science and Engineering, Sichuan University
 
 This repository serves as the official repository for DEAL-300K. It contains the DEAL-300K dataset along with other tools mentioned in the paper. The code and related pre-trained models will be released after the paper is accepted.
 
-If you have any question, please contact _zhangrui1997[at]stu.scu.edu.cn_. The paper will be released in few days.
 
 
 
