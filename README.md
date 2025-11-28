@@ -1,4 +1,4 @@
-## **DEAL-300K**: A Large-Scale Dataset and Benchmark Method for Diffusion-Based Image Editing Area Localization
+## **DEAL-300K**: Diffusion-based Editing Area Localization with a 300K-Scale Dataset and Frequency-Prompted Baseline
 
 
 
